@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_aomsin_rce_search" value="name:id;datatype:int,name:uname;datatype:string,name:upass;datatype:string,name:myname;datatype:string,name:email;datatype:string,name:tel;datatype:string" />
+</info>
